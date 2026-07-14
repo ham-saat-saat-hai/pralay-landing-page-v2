@@ -12,9 +12,14 @@ url = "/about"
 weight = 2
 
 [[main]]
+name = "Team"
+url = "/authors"
+weight = 3
+
+[[main]]
 name = "Gallery"
 url = "/gallery"
-weight = 3
+weight = 4
 
 # footer menu
 [[footer]]
