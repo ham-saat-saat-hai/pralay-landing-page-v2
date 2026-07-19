@@ -1,7 +1,7 @@
 ---
 title: Abhishek Panchal
 email: abhishek@pralaythegmae.com
-image: "/images/abhishek.jpeg"
+image: "/images/abhishek-02.jpeg"
 description: this is meta description
 social:
 
