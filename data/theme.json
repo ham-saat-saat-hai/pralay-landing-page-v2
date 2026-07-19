@@ -9,14 +9,14 @@
         "dark": "#040404"
       },
       "text_color": {
-        "text": "#444444",
+        "text": "#1F1F1F",
         "text-dark": "#040404",
         "text-light": "#717171"
       }
     },
     "darkmode": {
       "theme_color": {
-        "primary": "#fff",
+        "primary": "#a45858",
         "body": "#1c1c1c",
         "border": "#3E3E3E",
         "light": "#222222",
@@ -37,7 +37,7 @@
       "secondary_type": "sans-serif"
     },
     "font_size": {
-      "base": "16",
+      "base": "17",
       "scale": "1.2"
     }
   }

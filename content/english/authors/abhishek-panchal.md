@@ -1,14 +1,14 @@
 ---
 title: Abhishek Panchal
 email: abhishek@pralaythegmae.com
-image: "/images/avatar.png"
+image: "/images/abhishek.jpeg"
 description: this is meta description
 social:
 
   - name: linkedin
     icon: fa-brands fa-linkedin
     link: https://www.linkedin.com/in/stardustcafe24601/
-    
+
   - name: website
     icon: far fa-globe
     link: https://stardustcafe.github.io/
