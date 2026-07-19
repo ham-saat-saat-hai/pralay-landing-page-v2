@@ -17,6 +17,12 @@ url = "/authors"
 weight = 3
 
 [[main]]
+name = "Blog"
+url = "/blog"
+weight = 4
+
+
+[[main]]
 name = "Gallery"
 url = "/gallery"
 weight = 4
