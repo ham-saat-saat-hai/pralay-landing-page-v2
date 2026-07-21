@@ -6,7 +6,7 @@ banner:
   image: "/images/banner.gif"
   button:
     enable: true
-    label: "Board Game Available Soon. Sign up for updates!"
+    label: "Board Game Available Soon!"
     link: ""
 
 # Features
