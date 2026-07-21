@@ -13,7 +13,7 @@ testimonials:
   - name: "Srikant Sastri"
     designation: "Experienced Entrepreneur, Co-Author ‘The Ventilator Project’, Advisor for Pralay"
     avatar: "/images/avatar-sm.png"
-    content: "In the fight against climate change we often ask, why do we seem to be losing this battle. Team Pralay has nailed down this thought on day one when they empathetically said: painting doom and gloom isn't going to move the needle, we need to engage people differently and immersively. It was great to see them get early validation at the India Science Festival 2025. The final board game is a wonderful confluence of science and creativity. This has real market potential and as a game played by millions if not billions when the team develops an online version "
+    content: "In the fight against climate change we often ask, why do we seem to be losing this battle. Team Pralay has nailed down this thought on day one when they empathetically said: painting doom and gloom isn't going to move the needle, we need to engage people differently and immersively. The final board game is a wonderful confluence of science and creativity. This has real market potential and as a game played by millions if not billions when the team develops an online version."
 
   - name: "Player from a game session"
     designation: ""
