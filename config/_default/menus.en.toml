@@ -23,8 +23,8 @@ weight = 4
 
 
 [[main]]
-name = "Gallery"
-url = "/gallery"
+name = "Game Sessions"
+url = "/game-sessions-gallery"
 weight = 4
 
 # footer menu
