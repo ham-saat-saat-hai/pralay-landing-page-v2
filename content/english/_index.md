@@ -15,8 +15,4 @@ features:
     video_embed: "https://www.youtube.com/embed/Tb71YyYEk5c?si=CRp0Ma8FdjOq9MDa"
     content: "Enter the world of Pralay to find out if you have the strength to rise to the occasion and become the world President…before the clock runs out. Pralay is a cooperative strategy board game for 3-6 players focussed on climate catastrophe where you hold the reins. Play wisely. There are always consequences.
 "
-
-  - title: ""
-    image: "/images/pralay-board.png"
-    content: ""
 ---
